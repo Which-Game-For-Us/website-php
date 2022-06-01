@@ -1,6 +1,4 @@
-<?php
-    require_once "../Include/php.php";
-?>
+<?php require_once "./PHP/Include/php.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
